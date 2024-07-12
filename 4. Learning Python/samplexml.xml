@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+  <firstname>Krish</firstname>
+  <lastname>Verma</lastname>
+  <home>Greater Noida</home>
+  <skill name="Python"/>
+  <skill name="Java"/>
+  <skill name="HTML"/>
+  <skill name="Javascript"/>
+</person>

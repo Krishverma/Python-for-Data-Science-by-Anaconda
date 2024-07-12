@@ -1,0 +1,9 @@
+Total bytecount:67402
+Files list:
+--------------
+Python Basics.ipynb
+Working with Files.ipynb
+newfile.txt.bak
+testzip.zip
+textfile.txt
+archive.zip
